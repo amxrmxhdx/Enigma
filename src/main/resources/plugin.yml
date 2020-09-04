@@ -1,0 +1,7 @@
+name: Enigma
+version: ${project.version}
+main: net.pixlies.enigma.Main
+api-version: 1.16
+authors: [ MickMMars ]
+description: Computers in Spigot!
+website: pixlies.net
